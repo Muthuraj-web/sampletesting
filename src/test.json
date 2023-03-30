@@ -1,0 +1,8 @@
+{
+  "Servers": [
+    {
+      "Version": "mdm-byod",
+      "BaseURL": "https://10.53.76.135:9383/mdm/client/v1/enroll?templateToken=93f52ac113e8be20f7475a7fc0950fd5&encapiKey=731296b4"
+    }
+  ]
+}
